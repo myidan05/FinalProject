@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent myIntent = new Intent(MainActivity.this, Main2Activity.class);
+                Intent myIntent = new Intent(MainActivity.this, Main3Activity.class);
                 myIntent.putExtra("key", button);
                 MainActivity.this.startActivity(myIntent);
 

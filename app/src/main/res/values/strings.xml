@@ -3,4 +3,14 @@
     <string name="back4app_server_url">https://parseapi.back4app.com/</string>
     <string name="back4app_app_id">WPWVF4UMAjTCOrhQ9L4Df57YjBSEIgqtKAKqf7HS</string>
     <string name="back4app_client_key">6Z8gRVFgqm8hBij0NmCYdbbP58NjpLORf5waDJ9q</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyC6LGkmp_mUuN4Tz_Ewq7picYxFar6_ioU</string>
 </resources>
